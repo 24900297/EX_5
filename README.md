@@ -1,5 +1,5 @@
-# EX_5
-SIMULATION STUDY ON WIND ENERGY GENERATOR
+# SIMULATION STUDY ON WIND ENERGY GENERATOR
+
 CIRUIT DIAGRAM
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7ea3de9d-c307-4b18-8bbe-bd70ddcc9365" />
 
@@ -12,3 +12,8 @@ PARAMETERS
 OUTPUT GRAPH
 
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/601c2488-f902-4efa-891e-62044a4be777" />
+
+
+
+
+
